@@ -1,0 +1,2871 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SocialV 2.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/socialv\n"
+"Last-Translator: \n"
+"Language-Team: 繁體中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-03T17:47:40+05:30\n"
+"PO-Revision-Date: 2023-11-08 15:34+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: socialv\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.6.6; wp-6.4"
+
+msgid " And "
+msgstr " 和"
+
+msgid " And %d more users"
+msgstr " 還有 %d 個用戶"
+
+msgid "with-checkbox"
+msgstr "帶複選框"
+
+msgid "yes"
+msgstr "是的"
+
+msgid "you are working in a localhost environment"
+msgstr "您正在本地主機環境中工作"
+
+msgid "© 2023"
+msgstr "© 2023"
+
+msgid "© 2023 SocialV. All Rights Reserved."
+msgstr "© 2023 SocialV。版權所有。"
+
+msgid "sale-banner"
+msgstr "銷售橫幅"
+
+msgid "search"
+msgstr "搜索"
+
+msgctxt "search course input placeholder"
+msgid "Search courses content"
+msgstr "搜索課程內容"
+
+msgid "shared %s post"
+msgstr "分享了 %s 貼文"
+
+msgctxt "site_forgetpwd_desc"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "site_login_desc"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "site_login_title"
+msgid "%s"
+msgstr "%s"
+
+msgctxt "site_register_desc"
+msgid "%s"
+msgstr "%s"
+
+msgid "socialv"
+msgstr "社交"
+
+msgid "socialv Loader"
+msgstr "社交加載器"
+
+msgid "sortable"
+msgstr "可排序的"
+
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+msgid "text-center"
+msgstr "文本中心"
+
+msgid "text-end"
+msgstr "文本結束"
+
+msgid "text-start"
+msgstr "文本開始"
+
+msgid "this wishlist link and share it anywhere)"
+msgstr "這個願望清單鏈接並在任何地方分享）"
+
+msgid "true"
+msgstr "真的"
+
+msgid "undo"
+msgstr "撤消"
+
+msgid "user-img"
+msgstr "用戶img"
+
+msgid "wishlist-title-with-form"
+msgstr "願望清單標題與表格"
+
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgstr "顯示 %3$d 個結果中的 %1$d–%2$d"
+
+msgid "Upload cover image from here."
+msgstr "從這裡上傳封面圖片。"
+
+msgid "Upload default banner image for your Website."
+msgstr "上傳您網站的默認橫幅圖像。"
+
+msgid "Upload default breadcrumb image for your Website."
+msgstr "上傳您網站的默認麵包屑圖像。"
+
+msgid "Upload default image for your membership cancel page."
+msgstr "上傳您的會員資格取消頁面的默認圖像。"
+
+msgid "Upload document"
+msgstr "上傳文件"
+
+msgid "Upload or browse a file"
+msgstr "上傳或瀏覽文件"
+
+msgid "Upload photo"
+msgstr "上傳圖片"
+
+msgid "Upload video"
+msgstr "上傳視頻"
+
+msgid "Use [iqonic-login] Shortcode on a page which you selected"
+msgstr "在您選擇的頁面上使用 [iqonic-login] 簡碼"
+
+msgid "Use [iqonic-login] Shortcode to display form"
+msgstr "使用 [iqonic-login] 簡碼顯示表單"
+
+msgid "Use [iqonic-lost-pass] Shortcode on a page which you selected"
+msgstr "在您選擇的頁面上使用 [iqonic-lost-pass] 簡碼"
+
+msgid "Use [iqonic-lost-pass] Shortcode to display form"
+msgstr "使用 [iqonic-lost-pass] 簡碼顯示表單"
+
+msgid "Use [iqonic-register] Shortcode on a page which you selected"
+msgstr "在您選擇的頁面上使用 [iqonic-register] 簡碼"
+
+msgid "Use an existing topic in this forum:"
+msgstr "使用此論壇中的現有主題："
+
+msgid "User Role"
+msgstr "用戶角色"
+
+msgid "User registration is currently not allowed."
+msgstr "現在不允許用戶註冊。"
+
+msgid "User shared activity"
+msgstr "用戶共享活動"
+
+msgid "Username"
+msgstr "用戶名"
+
+msgid "Username *"
+msgstr "用戶名 *"
+
+msgid "Username or Email"
+msgstr "用戶名或電子郵件"
+
+msgid "Username or Email Address*"
+msgstr "用戶名或郵箱地址*"
+
+msgid "Username or Email*"
+msgstr "用戶名或電子郵件*"
+
+msgid "Username or email address *"
+msgstr "用戶名或郵箱地址 *"
+
+msgid "Verified Member for BuddyPress"
+msgstr "BuddyPress 認證會員"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Very poor"
+msgstr "很差"
+
+msgid "Videos"
+msgstr "影片"
+
+msgid "View All Friend Request"
+msgstr "查看所有好友請求"
+
+msgid "View All Invoices"
+msgstr "查看所有發票"
+
+msgid "View All Messages"
+msgstr "查看所有消息"
+
+msgid "View All Notifications"
+msgstr "查看所有通知"
+
+msgid "View Cart"
+msgstr "查看購物車"
+
+msgid "View Conversation"
+msgstr "查看對話"
+
+msgid "View Message"
+msgstr "查看留言"
+
+msgid "View Post"
+msgstr "查看帖子"
+
+msgid "View Product"
+msgstr "查看產品"
+
+msgid "View Profile"
+msgstr "查看資料"
+
+msgid "View all Membership Options"
+msgstr "查看所有會員選項"
+
+msgid "View cart"
+msgstr "查看購物車"
+
+msgid "View products"
+msgstr "查看產品"
+
+msgid "Views"
+msgstr "觀點"
+
+msgid "Visibility"
+msgstr "能見度"
+
+msgid ""
+"Visitors will redirect on this page if they try to access restricted pages."
+msgstr "如果訪問者嘗試訪問受限制的頁面，他們將重定向到此頁面。"
+
+msgid "Voices"
+msgstr "聲音"
+
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr "警告：刪除該組將完全刪除與其關聯的所有內容。謹慎選擇此選項。"
+
+msgid "WC4BP"
+msgstr "WC4BP"
+
+msgid "WOOF - Products Filter for WooCommerce"
+msgstr "WOOF - WooCommerce 的產品過濾器"
+
+msgid "WP Story Premium"
+msgstr "WP 故事高級版"
+
+msgid "WPC Smart Quick View for WooCommerce"
+msgstr "適用於 WooCommerce 的 WPC 智能快速視圖"
+
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG 已啟用"
+
+msgid "Warning color"
+msgstr "警告色"
+
+msgid ""
+"Warning: Are you sure you want to replace your default setting with SocialV "
+"Theme Setting?"
+msgstr "警告：您確定要使用 SocialV 主題設置替換默認設置嗎？"
+
+msgid "We have updates available in our plugins."
+msgstr "我們的插件中有可用的更新。"
+
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr "我們使用您的電子郵件地址通過電子郵件向您發送安全密碼並驗證您的帳戶。"
+
+msgid "Website"
+msgstr "網站"
+
+msgid "Welcome back!"
+msgstr "歡迎回來！"
+
+msgid "Welcome to socialV, a platform to connect with the social world"
+msgstr "歡迎來到socialV，一個與社交世界聯繫的平台"
+
+msgid "What's new in %1$s, %2$s?"
+msgstr "%1$s、%2$s 有什麼新內容？"
+
+msgid "What's on your mind, %s?"
+msgstr "你在想什麼，%s？"
+
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr "當您拆分主題時，您將從剛剛選擇的回復開始將其切成兩半。選擇將該回復用作具有新標題的新主題，或將這些回複合並到現有主題中。"
+
+msgid ""
+"When your account is private, only your friends can see your profile and "
+"activities."
+msgstr "當您的帳戶是私人帳戶時，只有您的朋友可以看到您的個人資料和活動。"
+
+msgid "Which members of this group are allowed to invite others?"
+msgstr "該團體中的哪些成員可以邀請其他人？"
+
+msgid "White"
+msgstr "白色的"
+
+msgid "Who can see this field?"
+msgstr "誰可以看到這個字段？"
+
+msgid "Width"
+msgstr "寬度"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "WooCommerce "
+msgstr "WooCommerce"
+
+msgid "WordPress Repository"
+msgstr "WordPress 存儲庫"
+
+msgid "Working..."
+msgstr "在職的..."
+
+msgid "Write a Comment ..."
+msgstr "寫一個評論 ..."
+
+msgid "Write a review"
+msgstr "寫評論"
+
+msgid "XL"
+msgstr "XL"
+
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce 願望清單"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Yellow"
+msgstr "黃色的"
+
+msgid "Yes"
+msgstr "是的"
+
+msgid "Yes, I'd like to create a new site"
+msgstr "是的，我想創建一個新網站"
+
+msgid "You are alone in this conversation."
+msgstr "這場對話中只有你一個人。"
+
+msgid "You are requesting to become a member of the group \"%s\"."
+msgstr "您正在請求成為群組“%s”的成員。"
+
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr "您可以將此回復設為具有新標題的新主題，或將其合併到現有主題中。"
+
+msgid ""
+"You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr "您可以啟用或禁用該字段的任何部分。寬度、高度或單位。"
+
+msgid ""
+"You can request an export of your personal data, containing the following "
+"items if applicable:"
+msgstr "您可以請求導出您的個人數據，其中包含以下項目（如果適用）："
+
+msgid "You cannot create new topics."
+msgstr "您無法創建新主題。"
+
+msgid "You cannot edit this reply."
+msgstr "您無法編輯此回复。"
+
+msgid "You cannot edit this topic."
+msgstr "您無法編輯該主題。"
+
+msgid "You cannot reply to this topic."
+msgstr "您無法回复此主題。"
+
+msgid ""
+"You do not have an active membership. <a href='%s'>Choose a membership level."
+"</a>"
+msgstr "您沒有有效的會員資格。<a href='%s'>選擇會員級別。</a>"
+
+msgid "You do not have an active membership. <a href='%s'>Register here.</a>"
+msgstr "您沒有有效的會員資格。<a href='%s'>在這裡註冊。</a>"
+
+msgid "You do not have permission to edit this reply."
+msgstr "您無權編輯此回复。"
+
+msgid "You do not have permission to edit this topic."
+msgstr "您沒有編輯此主題的權限。"
+
+msgid "You don't have permission to create gallery!"
+msgstr "您沒有創建圖庫的權限！"
+
+msgid "You finished this course. This course has been blocked"
+msgstr "您完成了本課程。該課程已被屏蔽"
+
+msgid "You have completed this lesson at "
+msgstr "您已完成本課程於"
+
+msgid "You have no outstanding group invites."
+msgstr "您沒有未完成的團體邀請。"
+
+msgid "You have no pending friends requests."
+msgstr "您沒有待處理的好友請求。"
+
+msgid "You have no pending friendship requests."
+msgstr "您沒有待處理的好友請求。"
+
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr "您已成功創建帳戶！請使用您剛剛創建的用戶名和密碼登錄。"
+
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr "您已成功創建帳戶！要開始使用本網站，您需要通過我們剛剛發送到您的地址的電子郵件激活您的帳戶。"
+
+msgid ""
+"You have successfully set your Better Messages setting same as SocialV Theme "
+"Demo."
+msgstr "您已成功將“更好的消息”設置設置為與 SocialV 主題演示相同。"
+
+msgid ""
+"You have successfully set your MediaPress setting same as SocialV Theme Demo."
+msgstr "您已成功將 MediaPress 設置設置為與 SocialV 主題演示相同。"
+
+msgid ""
+"You have successfully submitted your membership request! Our site moderators "
+"will review your submission and send you an activation email if your request "
+"is approved."
+msgstr "您已成功提交會員申請！我們的網站管理員將審核您提交的內容，並在您的請求獲得批准後向您發送激活電子郵件。"
+
+msgid "You may also like"
+msgstr "你也許也喜歡"
+
+msgid ""
+"You may download your personal data by clicking on the link below. For "
+"privacy and security, we will automatically delete the file on %s, so please "
+"download it before then."
+msgstr "您可以點擊下面的鏈接下載您的個人數據。為了隱私和安全，我們會自動刪除 %s 上的文件，因此請在此之前下載。"
+
+msgid "You may use these %s tags and attributes:"
+msgstr "您可以使用這些 %s 標籤和屬性："
+
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr "您可以使用這些<abbr title=\"超文本標記語言\">HTML</abbr>標籤和屬性："
+
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "您必須 %1$s 登錄 %2$s 才能發表評論。"
+
+msgid "You must be logged in to checkout."
+msgstr "您必須登錄才能結帳。"
+
+msgid "You must be logged in to create new topics."
+msgstr "您必須登錄才能創建新主題。"
+
+msgid "You must be logged in to reply to this topic."
+msgstr "您必須登錄才能回复此主題。"
+
+msgid "You previously requested an export of your personal data on %s."
+msgstr "您之前曾在 %s 上請求導出您的個人數據。"
+
+msgid ""
+"You will receive a link to download your export via email once we are able "
+"to fulfill your request."
+msgstr "一旦我們能夠滿足您的請求，您將通過電子郵件收到下載導出文件的鏈接。"
+
+msgid "You won't see this post in your Feed."
+msgstr "您不會在您的動態中看到此帖子。"
+
+msgid "Your Cover Image will be used to customize the header of your profile."
+msgstr "您的封面圖片將用於自定義您的個人資料的標題。"
+
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "您的帳戶可以發布不受限制的 HTML 內容。"
+
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log "
+"in</a> with the username and password you provided when you signed up."
+msgstr "您的帳戶已成功激活！您現在可以使用註冊時提供的用戶名和密碼<a href=\"%s\">登錄</a>。"
+
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr "您的帳戶已成功激活！您的帳戶詳細信息已通過單獨的電子郵件發送給您。"
+
+msgid "Your comment is awaiting moderation."
+msgstr "您的評論正在等待審核。"
+
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr "您的電子郵件地址不會被公開。必需的地方已做標記 *"
+
+msgid "Your membership is not active. <a href='%s'>Renew now.</a>"
+msgstr "您的會員資格不活躍。<a href='%s'>現在續約。</a>"
+
+msgid "Your notification settings have been saved."
+msgstr "您的通知設置已保存。"
+
+msgid "Your previous request for an export of personal data has expired."
+msgstr "您之前的個人數據導出請求已過期。"
+
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with using the same "
+"email address as you used to register with this site."
+msgstr "您的個人資料照片將在您的個人資料和整個網站上使用。要更改您的個人資料照片，請使用您在本網站註冊時使用的電子郵件地址創建一個帳戶。"
+
+msgid "Your rating"
+msgstr "你的評分"
+
+msgid "Your request for an export of personal data has been completed."
+msgstr "您的個人數據導出請求已完成。"
+
+msgid "Your review"
+msgstr "你的意見"
+
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "您的用戶名必須是唯一的，以後不能更改。"
+
+msgid "[Less]"
+msgstr "[較少的]"
+
+msgid "[More]"
+msgstr "[更多的]"
+
+msgid "activity"
+msgstr "活動"
+
+msgid "and"
+msgstr "和"
+
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+msgid "background color"
+msgstr "背景顏色"
+
+msgid "background image."
+msgstr "背景圖。"
+
+msgid "banner"
+msgstr "橫幅"
+
+msgid "bbPress"
+msgstr "bb出版社"
+
+msgid "boxed"
+msgstr "盒裝的"
+
+msgctxt "button"
+msgid "Apply"
+msgstr "申請"
+
+msgctxt "button"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "button"
+msgid "Resend"
+msgstr "重發"
+
+msgctxt "button"
+msgid "Send Request"
+msgstr "發送請求"
+
+msgctxt "checkout sign in link"
+msgid "Sign in"
+msgstr "登入"
+
+msgctxt "checkout sign up link"
+msgid "Sign up"
+msgstr "註冊"
+
+msgid "copy"
+msgstr "複製"
+
+msgid "default"
+msgstr "默認"
+
+msgid "delete %3$s"
+msgstr "刪除%3$s"
+
+msgid "documentation"
+msgstr "文檔"
+
+msgid "group"
+msgstr "團體"
+
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+msgid "hover"
+msgstr "徘徊"
+
+msgid "https://iqonic.design/"
+msgstr "https://iqonic.design/"
+
+msgid "https://wordpress.iqonic.design/product/wp/socialv/"
+msgstr "https://wordpress.iqonic.design/product/wp/socialv/"
+
+msgid "image"
+msgstr "圖像"
+
+msgid "img"
+msgstr "圖像"
+
+msgid "in reply to: "
+msgstr "回覆："
+
+msgid "loader"
+msgstr "裝載機"
+
+msgid "mini"
+msgstr "小型的"
+
+msgid "moved"
+msgstr "移動"
+
+msgid "need help?"
+msgstr "需要幫忙？"
+
+msgid "no"
+msgstr "不"
+
+msgid "no-interactions"
+msgstr "無互動"
+
+msgid "offline"
+msgstr "離線"
+
+msgid "online"
+msgstr "線上"
+
+msgid "or"
+msgstr "或者"
+
+msgctxt "payment method"
+msgid "Secure Connection"
+msgstr "安全連接"
+
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr "全部<span class=\"count\">（%s）</span>"
+
+msgid "Email address of new user"
+msgstr "新用戶的電子郵件地址"
+
+msgid "Email or username"
+msgstr "電子郵件或用戶名"
+
+msgid "Email*"
+msgstr "電子郵件*"
+
+msgid "Email:"
+msgstr "電子郵件："
+
+msgid "Enable"
+msgstr "使能夠"
+
+msgid "Enable / disable footer on 404 page"
+msgstr "啟用/禁用 404 頁面上的頁腳"
+
+msgid "Enable / disable header on 404 page"
+msgstr "啟用/禁用 404 頁面上的標頭"
+
+msgid "Enable Full Logo?"
+msgstr "啟用完整徽標？"
+
+msgid "Enable Profile Courses Tab"
+msgstr "啟用配置文件課程選項卡"
+
+msgid "Enable Profile Forum Tab"
+msgstr "啟用個人資料論壇選項卡"
+
+msgid "Enable Rss Field"
+msgstr "啟用 Rss 字段"
+
+msgid "Enable page restriction"
+msgstr "啟用頁面限制"
+
+msgid ""
+"Enable page restriction if you want to restrict your visitors to access "
+"specific pages."
+msgstr "如果您想限制訪問者訪問特定頁面，請啟用頁面限制。"
+
+msgid ""
+"Enable this option to redirect your users to the last visited page, after "
+"login."
+msgstr "啟用此選項可在登錄後將用戶重定向到上次訪問的頁面。"
+
+msgid "Enrolled Courses"
+msgstr "註冊課程"
+
+msgid "Enter Button Text"
+msgstr "輸入按鈕文本"
+
+msgid "Enter Description Text for Forget Password"
+msgstr "輸入忘記密碼的描述文本"
+
+msgid "Enter Description Text for Login"
+msgstr "輸入登錄說明文本"
+
+msgid "Enter Description Text for Register"
+msgstr "輸入註冊描述文本"
+
+msgid "Enter Numeric Value Only"
+msgstr "僅輸入數值"
+
+msgid "Enter Placeholder Text"
+msgstr "輸入佔位符文本"
+
+msgid "Enter Subtitle Text"
+msgstr "輸入字幕文本"
+
+msgid ""
+"Enter URLs that you want to exclude from the restriction, one URL per line."
+msgstr "輸入要從限制中排除的 URL，每行一個 URL。"
+
+msgid "Enter a link"
+msgstr "輸入鏈接"
+
+msgid "Enter a value for the header menu range"
+msgstr "輸入標題菜單範圍的值"
+
+msgid "Enter a value for the text range"
+msgstr "輸入文本範圍的值"
+
+msgid "Enter copyrights text here"
+msgstr "在此輸入版權文本"
+
+msgid "Enter description text for 404 page"
+msgstr "輸入 404 頁面的描述文本"
+
+msgid "Enter social media url."
+msgstr "輸入社交媒體網址。"
+
+msgid "Enter text for button label"
+msgstr "輸入按鈕標籤的文本"
+
+msgid "Enter title text for 404 page"
+msgstr "輸入 404 頁面的標題文本"
+
+msgid "Enter your email id."
+msgstr "輸入您的電子郵件 ID。"
+
+msgid "Enter your email..."
+msgstr "輸入你的電子郵箱..."
+
+msgid "Enter your order id."
+msgstr "輸入您的訂單 ID。"
+
+msgid "Error 404"
+msgstr "錯誤404"
+
+msgid "Error accepting invitation"
+msgstr "接受邀請時出錯"
+
+msgid "Error joining group"
+msgstr "加入團體時出錯"
+
+msgid "Error leaving group"
+msgstr "離開團體時出錯"
+
+msgid "Error requesting membership"
+msgstr "請求會員資格時出錯"
+
+msgid "Exclude URL from restriction"
+msgstr "從限制中排除 URL"
+
+msgid "Exclude pages from restriction"
+msgstr "從限制中排除頁面"
+
+msgid "Existing tag:"
+msgstr "現有標籤："
+
+msgid "Exit Conversation"
+msgstr "退出對話"
+
+msgid "Expand"
+msgstr "擴張"
+
+msgid "Expand child menu"
+msgstr "展開子菜單"
+
+msgid "Experience Our Live Demo Of SocialV Wordpress Theme."
+msgstr "體驗我們的 SocialV WordPress 主題的現場演示。"
+
+msgid "Expiration"
+msgstr "到期日"
+
+msgid "Export Data"
+msgstr "導出數據"
+
+msgid "External Source"
+msgstr "外部源"
+
+msgid "Extra"
+msgstr "額外的"
+
+msgid "FAQs"
+msgstr "常見問題解答"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "False"
+msgstr "錯誤的"
+
+msgid "Favorite"
+msgstr "最喜歡的"
+
+msgid "Featured Review"
+msgstr "專題評論"
+
+msgid "Features"
+msgstr "特徵"
+
+msgid ""
+"Fill out the form below to invite a new user to join this site. Upon "
+"submission of the form, an email will be sent to the invitee containing a "
+"link to accept your invitation. You may also add a custom message to the "
+"email."
+msgstr "填寫下面的表格以邀請新用戶加入此網站。提交表格後，將向受邀者發送一封電子郵件，其中包含接受邀請的鏈接。您還可以在電子郵件中添加自定義消息。"
+
+msgid "Filter"
+msgstr "篩選"
+
+msgid "Filter:"
+msgstr "篩選："
+
+msgid "Finish"
+msgstr "結束"
+
+msgid "Finish course"
+msgstr "完成課程"
+
+msgid "Finished"
+msgstr "完成的"
+
+msgid "First Name"
+msgstr "名"
+
+msgid "First Name *"
+msgstr "名 *"
+
+msgid "First name"
+msgstr "名"
+
+msgid "Footer"
+msgstr "頁腳"
+
+msgid "Footer Area "
+msgstr "頁腳區域"
+
+msgid "Footer Copyright"
+msgstr "頁腳版權"
+
+msgid "Footer Layout Type"
+msgstr "頁腳佈局類型"
+
+msgid "Footer Option"
+msgstr "頁腳選項"
+
+msgid "Footer background"
+msgstr "頁腳背景"
+
+msgid "Forget Password Form"
+msgstr "忘記密碼表格"
+
+msgid "Forget Password Text"
+msgstr "忘記密碼文本"
+
+msgid "Forgot Password?"
+msgstr "忘記密碼？"
+
+msgid "Forum"
+msgstr "論壇"
+
+msgid "Forum:"
+msgstr "論壇："
+
+msgid "Forums"
+msgstr "論壇"
+
+msgid "Freshness"
+msgstr "新鮮"
+
+msgid "Friend"
+msgstr "朋友"
+
+msgid "Friend Request"
+msgstr "好友請求"
+
+msgid "Friend Requests"
+msgstr "好友請求"
+
+msgid "Friend could not be canceled."
+msgstr "好友無法取消。"
+
+msgid "Friend request could not be cancelled."
+msgstr "無法取消好友請求。"
+
+msgid "Friends"
+msgstr "朋友"
+
+msgid "Friends Requests"
+msgstr "好友請求"
+
+msgid "Friendship Accepted Notifications"
+msgstr "友誼接受通知"
+
+msgid "Friendship Requested Notifications"
+msgstr "好友請求通知"
+
+msgid "Friendship accepted."
+msgstr "友誼接受了。"
+
+msgid "Friendship rejected."
+msgstr "友誼被拒絕。"
+
+msgid "From"
+msgstr "從"
+
+msgid "Full Width"
+msgstr "全屏寬度"
+
+msgid "Full width"
+msgstr "全屏寬度"
+
+msgid "Gallery Title (Required)"
+msgstr "貼文標題（必填）"
+
+msgid "Gallery created successfully!"
+msgstr "圖庫創建成功！"
+
+msgid "GamiPress"
+msgstr "加米出版社"
+
+msgid "GamiPress - BuddyPress integration"
+msgstr "GamiPress - BuddyPress 集成"
+
+msgid "General Blogs"
+msgstr "一般博客"
+
+msgid "Generate Password"
+msgstr "生成密碼"
+
+msgid "Get MediaPress plugin settings similar to SocialV Theme Demo."
+msgstr "獲取類似於 SocialV 主題演示的 MediaPress 插件設置。"
+
+msgid "Get Started"
+msgstr "開始使用"
+
+msgid "Get better messaging plugin settings similar to SocialV Theme Demo."
+msgstr "獲得更好的消息插件設置，類似於 SocialV 主題演示。"
+
+msgid "Gif"
+msgstr "動圖"
+
+msgid "Glass"
+msgstr "玻璃"
+
+msgid "Global colors"
+msgstr "全局顏色"
+
+msgid "Go"
+msgstr "去"
+
+msgid "Go To Documentation"
+msgstr "轉到文檔"
+
+msgid "Good"
+msgstr "好的"
+
+msgid "Good Communication is the key to cop-up with good ideas"
+msgstr "良好的溝通是應對好想法的關鍵"
+
+msgid "Grant this user super admin privileges for the Network."
+msgstr "授予該用戶網絡的超級管理員權限。"
+
+msgid "Green"
+msgstr "綠色的"
+
+msgid "Grey"
+msgstr "灰色的"
+
+msgid "Grid"
+msgstr "網格"
+
+msgid "Group"
+msgstr "團體"
+
+msgid "Group Activity"
+msgstr "團體活動"
+
+msgid "Group Admin Promotion Notifications"
+msgstr "團體管理員晉升通知"
+
+msgid "Group Avatar"
+msgstr "團體頭像"
+
+msgid "Group Description"
+msgstr "團體簡介"
+
+msgid "Group Description (required)"
+msgstr "團體描述（必填）"
+
+msgid "Group Details"
+msgstr "團體詳情"
+
+msgid "Group Directory"
+msgstr "好事團體"
+
+msgid "Group Invitations"
+msgstr "團體邀請函"
+
+msgid "Group Invitations Notifications"
+msgstr "團體邀請通知"
+
+msgid "Group Invites"
+msgstr "團體邀請"
+
+msgid "Group Membership Request Notifications"
+msgstr "團體會員申請通知"
+
+msgid "Group Name"
+msgstr "團隊名字"
+
+msgid "Group Name (required)"
+msgstr "團體名稱（必填）"
+
+msgid "Group Settings"
+msgstr "團體設置"
+
+msgid "Group Sidebar"
+msgstr "團體側邊欄"
+
+msgid "Group Types"
+msgstr "團體類型"
+
+msgid "Group admins and mods only"
+msgstr "僅限網站管理員和團體管理員"
+
+msgid "Group admins only"
+msgstr "僅限團體管理員"
+
+msgid "Group content and activity will be visible to any site member."
+msgstr "任何網站成員都可以看到團體內容和活動。"
+
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr "團體內容和活動僅對該團體成員可見。"
+
+msgid "Group information Notifications"
+msgstr "團體信息通知"
+
+msgid "Group invitations"
+msgstr "團體邀請"
+
+msgid "Group invitations can only be extended to friends."
+msgstr "團體邀請只能發送給朋友。"
+
+msgid "Group membership request form"
+msgstr "團體會員申請表"
+
+msgid "Group primary navigation"
+msgstr "團體主導航"
+
+msgid "Groups"
+msgstr "團體"
+
+msgid "Groups directory"
+msgstr "團體目錄"
+
+msgid "Groups directory secondary navigation"
+msgstr "團體目錄二級導航"
+
+msgid "H1 Font"
+msgstr "H1字體"
+
+msgid "H2 Font"
+msgstr "H2字體"
+
+msgid "H3 Font"
+msgstr "H3字體"
+
+msgid "H4 Font"
+msgstr "H4字體"
+
+msgid "H5 Font"
+msgstr "H5字體"
+
+msgid "H6 Font"
+msgstr "H6字體"
+
+msgid "Have a coupon?"
+msgstr "有優惠券嗎？"
+
+msgid "Header"
+msgstr "標頭"
+
+msgid "Header Style"
+msgstr "標題樣式"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Here This option provide set product per paged item"
+msgstr "此處此選項為每個分頁項目提供設置產品"
+
+msgid "Hidden"
+msgstr "隱"
+
+msgid "Hide"
+msgstr "隱藏"
+
+msgid "Hide Details"
+msgstr "隱藏細節"
+
+msgid "Hide Post"
+msgstr "隱藏貼文"
+
+msgid "Hide Posts"
+msgstr "隱藏貼文"
+
+msgid "Hide password"
+msgstr "隱藏密碼"
+
+msgid "Home"
+msgstr "首頁"
+
+msgid "Hover"
+msgstr "徘徊"
+
+msgid "I understand the consequences of deleting this group."
+msgstr "我了解刪除該團體的後果。"
+
+msgid "I understand the consequences."
+msgstr "我理解後果。"
+
+msgid "I'm concerned about this post."
+msgstr "我很關心這個帖子。"
+
+msgid "Id not present"
+msgstr "身份證不存在"
+
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr "如果您不是開發人員，您的主題/插件作者在出廠時已啟用開發人員模式。直接聯繫他們來修復它。"
+
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr "如果您選擇現有主題，回復將按創建時間和日期排序。"
+
+msgid "If you have a coupon code, please apply it below."
+msgstr "如果您有優惠券代碼，請在下面應用。"
+
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr "如果您使用現有主題選項，兩個主題中的回復將按時間順序合併。合併回复的順序取決於回复的發佈時間和日期。"
+
+msgid "If you want to make a request, please click on the button below:"
+msgstr "如果您想提出請求，請點擊下面的按鈕："
+
+msgid ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+msgstr "如果您想刪除當前的個人資料照片但不想上傳新照片，請使用刪除個人資料照片按鈕。"
+
+msgid "Image"
+msgstr "圖像"
+
+msgid "Import / Export"
+msgstr "進出口"
+
+msgid "Import Better Messages Setting"
+msgstr "導入更好的消息設置"
+
+msgid "Import MediaPress Setting"
+msgstr "導入 MediaPress 設置"
+
+msgid "Import your demo content, widgets and theme settings with one click."
+msgstr "一鍵導入您的演示內容、小部件和主題設置。"
+
+msgid "In Progress"
+msgstr "進行中"
+
+msgid "In Stock"
+msgstr "有存貨"
+
+msgid "Info color"
+msgstr "訊息顏色"
+
+msgid "Install"
+msgstr "安裝"
+
+msgid "Install %2$s"
+msgstr "安裝%2$s"
+
+msgid "Install Plugins"
+msgstr "安裝插件"
+
+msgid "Install Required Plugins"
+msgstr "安裝所需的插件"
+
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s，%2$s"
+
+msgid "Installed But Not Activated"
+msgstr "已安裝但未激活"
+
+msgid "Installed version:"
+msgstr "安裝版本："
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安裝插件 %1$s (%2$d/%3$d)"
+
+msgid "Installing Plugin: %s"
+msgstr "正在安裝插件：%s"
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安裝並激活插件 %1$s (%2$d/%3$d)"
+
+msgid "Instructor"
+msgstr "講師"
+
+msgid "Invalid Gallery status!"
+msgstr "貼文狀態無效！"
+
+msgid "Invalid action!"
+msgstr "無效動作！"
+
+msgid "Invalid gallery type!"
+msgstr "貼文類型無效！"
+
+msgid "Invalid order."
+msgstr "訂單無效。"
+
+msgid "Invalid theme stylesheet handle: %s"
+msgstr "主題樣式表句柄無效：%s"
+
+msgid "Invitations"
+msgstr "邀請函"
+
+msgid "Invitee"
+msgstr "受邀者"
+
+msgid "Iqonic Design"
+msgstr "愛康尼克設計"
+
+msgid "Iqonic Extensions"
+msgstr "Iqonic 擴展"
+
+msgid "Iqonic Moderation Tool"
+msgstr "Iqonic 審核工具"
+
+msgid "Iqonic Reactions"
+msgstr "邏輯反應"
+
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "我們似乎找不到您要找的東西。也許搜索會有所幫助。"
+
+msgid "Item"
+msgstr "物品"
+
+msgid "JS Code"
+msgstr "JS代碼"
+
+msgid "Join Group"
+msgstr "加入團體"
+
+msgid "Join Group Notifications"
+msgstr "加入團體通知"
+
+msgid "Keep a log of this edit:"
+msgstr "保留此編輯的日誌："
+
+msgid "Keep me signed in"
+msgstr "保持登錄狀態"
+
+msgid "Kick &amp; Ban"
+msgstr "踢出並禁止"
+
+msgid "L"
+msgstr "L"
+
+msgid "LTR"
+msgstr "長期TR"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Large"
+msgstr "大的"
+
+msgid "Larger"
+msgstr "較大"
+
+msgid "Last Active"
+msgstr "最後登錄"
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid "Last Name *"
+msgstr "姓 *"
+
+msgid "Last name"
+msgstr "姓"
+
+msgid "Layout 1"
+msgstr "佈局1"
+
+msgid "Layout 2"
+msgstr "佈局2"
+
+msgid "Layout 3"
+msgstr "佈局3"
+
+msgid "Layout 4"
+msgstr "佈局4"
+
+msgid "Layout 5"
+msgstr "佈局5"
+
+msgid "LearnPress - Course Review"
+msgstr "LearnPress - 課程回顧"
+
+msgid "LearnPress – WordPress LMS Plugin"
+msgstr "LearnPress – WordPress LMS 插件"
+
+msgid "Leave Group"
+msgstr "離開團體"
+
+msgid "Leave a Reply to %s"
+msgstr "回覆%s"
+
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "將 slug 留空，以便自動生成。"
+
+msgid "Left"
+msgstr "左邊"
+
+msgid "Left Bordered"
+msgstr "左邊框"
+
+msgid "Left alignment"
+msgstr "左對齊"
+
+msgid "Left sidebar"
+msgstr "左側邊欄"
+
+msgid "Level"
+msgstr "等級"
+
+msgid "Lifetime access"
+msgstr "終身訪問"
+
+msgid "Light"
+msgstr "光"
+
+msgid "Light Mode"
+msgstr "燈光模式"
+
+msgid "Like"
+msgstr "喜歡"
+
+msgid "Like Notifications"
+msgstr "喜歡通知"
+
+msgid "Liked by "
+msgstr "喜歡的人"
+
+msgid "List"
+msgstr "列表"
+
+msgid "Live Demo"
+msgstr "現場演示"
+
+msgid "Live Style Customizer"
+msgstr "生活風格定制器"
+
+msgid "Load More"
+msgstr "裝載更多"
+
+msgid "Loader"
+msgstr "裝載機"
+
+msgid "Loader (Width/Height) Option"
+msgstr "裝載機（寬度/高度）選項"
+
+msgid "Loader Background Color"
+msgstr "裝載機背景顏色"
+
+msgid "Log In"
+msgstr "登錄"
+
+msgid "Log Out"
+msgstr "登出"
+
+msgid "Log in"
+msgstr "登錄"
+
+msgid "Login"
+msgstr "登錄"
+
+msgid "Login Description"
+msgstr "登錄說明"
+
+msgid "Login Form"
+msgstr "登錄表單"
+
+msgid "Logo"
+msgstr "標識"
+
+msgid "Logo (Width/Height) Option"
+msgstr "徽標（寬度/高度）選項"
+
+msgid "Logo Left Side ?"
+msgstr "標誌左側？"
+
+msgid "Logo Text"
+msgstr "標誌文字"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Lost Password"
+msgstr "忘記密碼"
+
+msgid "Lost password?"
+msgstr "忘記密碼？"
+
+msgid "Lost your password?"
+msgstr "忘記密碼？"
+
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr "忘記密碼？請輸入您的用戶名或電子郵件地址。您將通過電子郵件收到創建新密碼的鏈接。"
+
+msgid "M"
+msgstr "中號"
+
+msgid "MC4WP: Mailchimp for WordPress"
+msgstr "MC4WP：適用於 WordPress 的 Mailchimp"
+
+msgid "Main Content"
+msgstr "主要內容"
+
+msgid "Main Sidebar"
+msgstr "主側邊欄"
+
+msgid "Main menu"
+msgstr "主菜單"
+
+msgid "Make as Read"
+msgstr "設為已讀"
+
+msgid "Make as Unread"
+msgstr "設為未讀"
+
+msgid "Manage Group"
+msgstr "管理團體"
+
+msgid "Manage Group Details"
+msgstr "管理團體詳細信息"
+
+msgid "Manage Group Settings"
+msgstr "管理團體設置"
+
+msgid "Manage Tag: \"%s\""
+msgstr "管理標籤：“%s”"
+
+msgid "Mark read"
+msgstr "標記已讀"
+
+msgid "Mark unread"
+msgstr "標記為未讀"
+
+msgid "Media"
+msgstr "媒體"
+
+msgid "MediaPress"
+msgstr "媒體出版社"
+
+msgid "Medium"
+msgstr "中等的"
+
+msgid "Member"
+msgstr "成員"
+
+msgid "Member Directory"
+msgstr "好事會員"
+
+msgid "Member Links"
+msgstr "會員鏈接"
+
+msgid "Member Profiles"
+msgstr "會員簡介"
+
+msgid "Member secondary navigation"
+msgstr "會員二級導航"
+
+msgctxt "Member settings on notification settings page"
+msgid "Someone has requested site membership"
+msgstr "有人申請了網站會員資格"
+
+msgid "Member since %1$s"
+msgstr "自 %1$s 起成為會員"
+
+msgid "Member's groups"
+msgstr "會員團體"
+
+msgid "Members"
+msgstr "會員"
+
+msgid "Members directory"
+msgstr "好事會員"
+
+msgid "Mentions Notifications"
+msgstr "提及通知"
+
+msgid "Menu Style"
+msgstr "菜單風格"
+
+msgid "Merge"
+msgstr "合併"
+
+msgid "Merge topic \"%s\""
+msgstr "合併主題“%s”"
+
+msgid "Merge topic favoriters"
+msgstr "合併主題收藏夾"
+
+msgid "Merge topic subscribers"
+msgstr "合併主題訂閱者"
+
+msgid "Merge topic tags"
+msgstr "合併主題標籤"
+
+msgid "Merge with this topic:"
+msgstr "與本主題合併："
+
+msgid "Merging tags together cannot be undone."
+msgstr "將標籤合併在一起無法撤消。"
+
+msgid "Message"
+msgstr "訊息"
+
+msgid "Messages"
+msgstr "留言"
+
+msgid "Messages Notifications"
+msgstr "消息通知"
+
+msgid "Mini"
+msgstr "小型的"
+
+msgid "Minimum required version:"
+msgstr "最低要求版本："
+
+msgid "Modal title"
+msgstr "模態標題"
+
+msgid "Moderators"
+msgstr "版主"
+
+msgid "Month"
+msgstr "月"
+
+msgid "More"
+msgstr "更多的"
+
+msgid "Most Members"
+msgstr "最多會員"
+
+msgid "Move"
+msgstr "移動"
+
+msgid "Move Method"
+msgstr "移動方法"
+
+msgid "Move reply \"%s\""
+msgstr "移動回复“%s”"
+
+msgid "Move to another list &rsaquo;"
+msgstr "移至另一個列表 ›"
+
+msgid "Moved: %s"
+msgstr "已移動：%s"
+
+msgid "My Account"
+msgstr "我的帳戶"
+
+msgid "My Friends"
+msgstr "我的朋友"
+
+msgid "My Galleries"
+msgstr "我的畫廊"
+
+msgid "My Groups"
+msgstr "我的團體"
+
+msgid "My Memberships"
+msgstr "我的會員資格"
+
+msgid "My Profile"
+msgstr "個人貼文"
+
+msgid "My account"
+msgstr "我的帳戶"
+
+msgid "My friends"
+msgstr "我的朋友"
+
+msgid "My groups"
+msgstr "我的團體"
+
+msgid "N/A"
+msgstr "不適用"
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "Name*"
+msgstr "姓名*"
+
+msgid "Name:"
+msgstr "姓名："
+
+msgid "Navbar Style"
+msgstr "導航欄樣式"
+
+msgid ""
+"Need help with something you can't find an answer to in our documentation? "
+"Open Support Ticket."
+msgstr "需要幫助解決您在我們的文檔中找不到答案的問題嗎？打開支持票。"
+
+msgid "Network Role"
+msgstr "網絡角色"
+
+msgid "Never"
+msgstr "絕不"
+
+msgid "New Page"
+msgstr "新一頁"
+
+msgid "New comment(s)"
+msgstr "新評論"
+
+msgid "New password"
+msgstr "新密碼"
+
+msgid "New password (leave blank to leave unchanged)"
+msgstr "新密碼（留空則保持不變）"
+
+msgid "New password does not match!"
+msgstr "新密碼不匹配！"
+
+msgid ""
+"New payment methods can only be added during checkout. Please contact us if "
+"you require assistance."
+msgstr "新的付款方式只能在結帳時添加。如果您需要幫助，請聯繫我們。"
+
+msgid "New topic in %s titled:"
+msgstr "%s 中的新主題標題為："
+
+msgid "New!"
+msgstr "新的！"
+
+msgid "Newest"
+msgstr "最新"
+
+msgid "Newest Registered"
+msgstr "最新註冊"
+
+msgid "Newly Created"
+msgstr "新創建的"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Next Step"
+msgstr "下一步"
+
+msgid "Next:"
+msgstr "下一個："
+
+msgid "Nickname"
+msgstr "暱稱"
+
+msgid "No"
+msgstr "不"
+
+msgid "No Course Found"
+msgstr "未找到課程"
+
+msgid "No Courses Available"
+msgstr "沒有可用課程"
+
+msgid "No Group Found"
+msgstr "未找到團體"
+
+msgid "No Member Found"
+msgstr "未找到會員"
+
+msgid "No Members"
+msgstr "沒有會員"
+
+msgid "No Post Found"
+msgstr "沒有找到帖子"
+
+msgid "No Product Found"
+msgstr "沒有找到產品"
+
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "不採取行動。插件 %1$s 已處於活動狀態。"
+
+msgid "No downloads available yet."
+msgstr "尚無可用下載。"
+
+msgid "No group administrators were found."
+msgstr "未找到團體管理員。"
+
+msgid "No group members were found."
+msgstr "沒有找到團體成員。"
+
+msgid "No group moderators were found."
+msgstr "未找到團體管理員。"
+
+msgid "No media selected"
+msgstr "未選擇媒體"
+
+msgid "No member found by that ID."
+msgstr "通過該 ID 找不到任何成員。"
+
+msgid "No members were found."
+msgstr "沒有找到成員。"
+
+msgid "No order has been made yet."
+msgstr "尚未下訂單。"
+
+msgid "No plugins are available to be activated at this time."
+msgstr "目前沒有可激活的插件。"
+
+msgid "No plugins are available to be installed at this time."
+msgstr "目前沒有可安裝的插件。"
+
+msgid "No plugins are available to be updated at this time."
+msgstr "目前沒有可更新的插件。"
+
+msgid "No plugins to install, update or activate."
+msgstr "無需安裝、更新或激活插件。"
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "沒有選擇激活任何插件。不採取行動。"
+
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "沒有選擇安裝任何插件。不採取行動。"
+
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "沒有選擇要更新的插件。不採取行動。"
+
+msgid "No products added to the wishlist"
+msgstr "沒有產品添加到願望清單"
+
+msgid "No products in the cart."
+msgstr "沒有產品在購物車中。"
+
+msgid "No saved methods found."
+msgstr "未找到已保存的方法。"
+
+msgid "No theme component with the slug %s exists."
+msgstr "不存在帶有 slug %s 的主題組件。"
+
+msgid "Not Completed %s"
+msgstr "未完成 %s"
+
+msgid "Not Installed"
+msgstr "未安裝"
+
+msgid "Not that bad"
+msgstr "沒有那麼糟糕"
+
+msgid "Note to administrator"
+msgstr "管理員注意事項"
+
+msgid "Note:"
+msgstr "筆記："
+
+msgid "Nothing Found"
+msgstr "什麼都沒找到"
+
+msgid "Nothing to see here!"
+msgstr "這沒東西看！"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "Notification settings"
+msgstr "通知設置"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Notify group members of these changes via email"
+msgstr "通過電子郵件將這些更改通知團體成員"
+
+msgid "Notify me of follow-up replies via email"
+msgstr "通過電子郵件通知我後續回复"
+
+msgid "Notify the author of follow-up replies via email"
+msgstr "通過電子郵件通知作者後續回复"
+
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "正在編輯“%s”"
+
+msgid "Number of Product Display On Desktop"
+msgstr "桌面上展示的產品數量"
+
+msgid "Number of Product Display On Laptop"
+msgstr "筆記本電腦上顯示的產品數量"
+
+msgid "Number of Product Display On Mobile"
+msgstr "手機上展示的產品數量"
+
+msgid "Number of Product Display On Tablet"
+msgstr "平板電腦上顯示的產品數量"
+
+msgid "Of The Entire Course"
+msgstr "整個課程"
+
+msgid "Of the enitre courses"
+msgstr "全部課程中"
+
+msgid "Off"
+msgstr "離開"
+
+msgid "Oldest"
+msgstr "最老的"
+
+msgid "On"
+msgstr "在"
+
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr "一旦您建立了朋友關係，您就可以邀請其他人加入您的團體。"
+
+msgid ""
+"Once you've made some friendships, you'll be able to invite those members to "
+"this group."
+msgstr "一旦您建立了一些朋友圈，您就可以邀請這些成員加入該團體。"
+
+msgid "One Click Demo Import"
+msgstr "一鍵演示導入"
+
+msgid "One column"
+msgstr "一欄"
+
+msgid "Only Selected Paged for not showing front customizer option on a page"
+msgstr "僅選定分頁，不在頁面上顯示前定制器選項"
+
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "只有購買過該產品的登錄客戶才能發表評論。"
+
+msgid "Only users who are invited can join the group."
+msgstr "只有受邀請的用戶才能加入該團體。"
+
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "只有請求加入並被接受的用戶才能加入該團體。"
+
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr "哎呀！您似乎已離線。"
+
+msgid "Oops! That page can not be found."
+msgstr "哎呀！找不到該頁面。"
+
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！找不到該頁面。"
+
+msgid "Optional reason for editing:"
+msgstr "可選編輯原因："
+
+msgid "Or you can %1$s%2$s %3$s now."
+msgstr "或者您現在可以%1$s%2$s %3$s。"
+
+msgid "Orange color"
+msgstr "橙色"
+
+msgid "Order By:"
+msgstr "排序方式："
+
+msgid "Order Key"
+msgstr "訂購鍵"
+
+msgid "Order Number"
+msgstr "訂單號"
+
+msgid "Order Summary"
+msgstr "訂單摘要"
+
+msgid "Order again"
+msgstr "再次訂購"
+
+msgid "Order key"
+msgstr "訂購鍵"
+
+msgid "Order number:"
+msgstr "訂單號："
+
+msgid "Our Badges"
+msgstr "我們的徽章"
+
+msgid "Our Forums"
+msgstr "我們的論壇"
+
+msgid "Our Product"
+msgstr "我們的產品"
+
+msgid "Our levels"
+msgstr "我們的水平"
+
+msgid "Out of stock"
+msgstr "缺貨"
+
+msgid "Overview"
+msgstr "概述"
+
+msgid "PMP Settings"
+msgstr "項目管理計劃設置"
+
+msgid "Page"
+msgstr "頁"
+
+msgid "Page Not Found."
+msgstr "找不到網頁。"
+
+msgid "Page Settings"
+msgstr "頁面設置"
+
+msgid "Page Spacing"
+msgstr "頁面間距"
+
+msgid "Pages"
+msgstr "頁數"
+
+msgid "Pages:"
+msgstr "頁數："
+
+msgid "Pagination"
+msgstr "分頁"
+
+msgid "Paid"
+msgstr "有薪酬的"
+
+msgid "Paid Memberships Pro"
+msgstr "付費會員專業版"
+
+msgid "Passing condition: %s%%"
+msgstr "通過條件：%s%%"
+
+msgid "Password"
+msgstr "密碼"
+
+msgid "Password *"
+msgstr "密碼 *"
+
+msgid "Password change"
+msgstr "更改密碼"
+
+msgid "Password*"
+msgstr "密碼*"
+
+msgid "Past Invoices"
+msgstr "過去的發票"
+
+msgid "Paste your custom CSS code here."
+msgstr "將您的自定義 CSS 代碼粘貼到此處。"
+
+msgid "Paste your custom JS code here."
+msgstr "將您的自定義 JS 代碼粘貼到此處。"
+
+msgid "Pay"
+msgstr "支付"
+
+msgid "Payment"
+msgstr "支付"
+
+msgid "Payment Method"
+msgstr "付款方式"
+
+msgid "Payment method:"
+msgstr "付款方式："
+
+msgid "Pending"
+msgstr "待辦的"
+
+msgid "People Who like this post"
+msgstr "喜歡這篇文章的人"
+
+msgid "People who have earned this"
+msgstr "獲得此殊榮的人"
+
+msgid "People who have this rank:"
+msgstr "具有此等級的人："
+
+msgid "Perfect"
+msgstr "完美的"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Phone Number *"
+msgstr "電話號碼 *"
+
+msgid "Photos"
+msgstr "上傳照片"
+
+msgid "Pill All"
+msgstr "全部藥丸"
+
+msgid "Pill One Side"
+msgstr "藥丸一側"
+
+msgid "Pin to Top"
+msgstr "固定到頂部"
+
+msgid "Pinterest"
+msgstr "興趣"
+
+msgid "Place order"
+msgstr "下訂單"
+
+msgid "Please click on the button below to make a new request."
+msgstr "請點擊下面的按鈕提出新的請求。"
+
+msgid "Please contact the administrator of this site for help."
+msgstr "請聯繫本網站的管理員尋求幫助。"
+
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "請聯繫插件提供商並要求他們根據 WordPress 指南打包插件。"
+
+msgid "Please enter correct value"
+msgstr "請輸入正確的值"
+
+msgid "Please fill in your details above to see available payment methods."
+msgstr "請在上面填寫您的詳細信息以查看可用的付款方式。"
+
+msgid "Please install the required plugins from the following link: "
+msgstr "請從以下鏈接安裝所需的插件："
+
+msgid "Please login to enroll the course!"
+msgstr "請登錄後報名課程！"
+
+msgid "Please provide a valid activation key."
+msgstr "請提供有效的激活密鑰。"
+
+msgid "Plugin"
+msgstr "插入"
+
+msgid "Plugin activated successfully."
+msgstr "插件激活成功。"
+
+msgid "Plugin activation failed."
+msgstr "插件啟用失敗。"
+
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "插件未激活。此主題需要更高版本的 %s。請更新插件。"
+
+msgid "Plus Jakarta Sans"
+msgstr "加上 Jakarta Sans"
+
+msgid "Popup"
+msgstr "彈出窗口"
+
+msgid "Post"
+msgstr "發佈"
+
+msgid "Post Comment"
+msgstr "發表評論"
+
+msgid "Post Per Page"
+msgstr "每頁發帖數"
+
+msgid "Post hidden"
+msgstr "貼文隱藏"
+
+msgid "Post in"
+msgstr "發表於"
+
+msgid "Post is now hidden"
+msgstr "貼文現已隱藏"
+
+msgid "Post is now visible"
+msgstr "貼文現在可見"
+
+msgid "Post navigation"
+msgstr "貼文導航"
+
+msgid "Post to activity stream all purchases I've made"
+msgstr "將我購買的所有商品發佈到活動流"
+
+msgid "Post to activity stream all reviews written by me"
+msgstr "將我寫的所有評論發佈到活動流"
+
+msgid "Post was not hidden"
+msgstr "貼文沒有被隱藏"
+
+msgid "Post what's new"
+msgstr "發布新內容"
+
+msgid "Postcode *"
+msgstr "郵政編碼 *"
+
+msgid "Postcode / ZIP"
+msgstr "郵政編碼/郵政編碼"
+
+msgid "Posts"
+msgstr "貼文"
+
+msgid "Posts tagged"
+msgstr "已標記的帖子"
+
+msgid "Pre-Packaged"
+msgstr "預包裝"
+
+msgid "Previous"
+msgstr "以前的"
+
+msgid "Previous:"
+msgstr "以前的："
+
+msgid "Price"
+msgstr "價格"
+
+msgid "Price:"
+msgstr "價格："
+
+msgid "Primary"
+msgstr "基本的"
+
+msgid "Primary color"
+msgstr "原色"
+
+msgid ""
+"Prior to updating, please make sure to backup previous versions of the "
+"plugin in case you have made any custom code changes."
+msgstr "在更新之前，請確保備份以前版本的插件，以防您進行任何自定義代碼更改。"
+
+msgid "Privacy Options"
+msgstr "隱私選項"
+
+msgid "Privacy and security"
+msgstr "隱私和安全"
+
+msgid ""
+"Privacy: I would like my site to appear in search engines, and in public "
+"listings around this network."
+msgstr "隱私：我希望我的網站出現在搜索引擎以及該網絡的公開列表中。"
+
+msgid "Private"
+msgstr "私人的"
+
+msgid "Private account"
+msgstr "私人賬戶"
+
+msgid "Proceed to checkout"
+msgstr "進行結算"
+
+msgid "Product"
+msgstr "產品"
+
+msgid "Product Grid"
+msgstr "產品網格"
+
+msgid "Product Listing"
+msgstr "產品列表"
+
+msgid "Product Name:"
+msgstr "產品名稱："
+
+msgid "Product Page"
+msgstr "產品頁面"
+
+msgid "Product Sidebar"
+msgstr "產品側邊欄"
+
+msgid "Product name"
+msgstr "產品名稱"
+
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "數量"
+
+msgid "Products"
+msgstr "產品"
+
+msgid "Products Setting"
+msgstr "產品設置"
+
+msgid "Profile Avatar"
+msgstr "個人資料頭像"
+
+msgid "Profile Cover"
+msgstr "封面照片"
+
+msgid "Profile Details"
+msgstr "個人資料詳情"
+
+msgid "Profile Info"
+msgstr "我的貼文"
+
+msgid "Profile Setting"
+msgstr "個人簡介設定"
+
+msgid "Profile Settings"
+msgstr "個人簡介設定"
+
+msgid "Profile photo preview"
+msgstr "個人資料照片預覽"
+
+msgid "Profile photo to crop"
+msgstr "裁剪個人資料照片"
+
+msgid "Profile visibility settings"
+msgstr "個人資料可見性設置"
+
+msgid "Promote to Admin"
+msgstr "晉升為管理員"
+
+msgid "Promote to Mod"
+msgstr "晉升為 Mod"
+
+msgid "Public"
+msgstr "公開"
+
+msgid "Put you Social Login for Shortcode here"
+msgstr "將您的社交登錄簡碼放在這裡"
+
+msgid "Qty"
+msgstr "數量"
+
+msgid "Quantity"
+msgstr "數量"
+
+msgid "Quantity:"
+msgstr "數量："
+
+msgid "Quizzes after"
+msgstr "之後測驗"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "RSS Feed"
+msgstr "RSS訂閱"
+
+msgid "RTL"
+msgstr "RTL"
+
+msgid "Rate&hellip;"
+msgstr "速度…"
+
+msgid "Rating"
+msgstr "評分"
+
+msgid "Reaction Notifications"
+msgstr "反應通知"
+
+msgid "Read More"
+msgstr "閱讀更多"
+
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備好發布您的第一篇文章了嗎？<a href=\"%1$s\">從這裡開始吧</a>。"
+
+msgid "Recommended"
+msgstr "受到推崇的"
+
+msgid "Recover"
+msgstr "恢復"
+
+msgid "Red"
+msgstr "紅色的"
+
+msgid "Redirect on referrer page after login?"
+msgstr "登錄後在引薦來源頁面重定向？"
+
+msgid "Refunded"
+msgstr "已退款"
+
+msgid "Register"
+msgstr "登記"
+
+msgid "Register Text"
+msgstr "註冊文本"
+
+msgid "Reject"
+msgstr "拒絕"
+
+msgid "Related Products"
+msgstr "相關產品"
+
+msgid "Remember Me"
+msgstr "記住賬號"
+
+msgid "Remember me"
+msgstr "記住賬號"
+
+msgid "Remove"
+msgstr "消除"
+
+msgid "Remove Ban"
+msgstr "解除封鎖"
+
+msgid "Remove Favorite"
+msgstr "移除收藏"
+
+msgid "Remove Invite"
+msgstr "刪除邀請"
+
+msgid "Remove from group"
+msgstr "從團體中刪除"
+
+msgid "Remove this item"
+msgstr "刪除此項目"
+
+msgid "Remove this product"
+msgstr "刪除該產品"
+
+msgid "Rename"
+msgstr "改名"
+
+msgid "Renew"
+msgstr "更新"
+
+msgid "Renew %1$s Membership"
+msgstr "續訂 %1$s 會員資格"
+
+msgid "Repeat New Password"
+msgstr "重複新密碼"
+
+msgid "Replies"
+msgstr "回覆"
+
+msgid "Replies Notifications"
+msgstr "回覆通知"
+
+msgid ""
+"Replies to both topics are merged chronologically, ordered by the time and "
+"date they were published. Topics may be updated to a 1 second difference to "
+"maintain chronological order based on the merge direction."
+msgstr "對兩個主題的回复均按時間順序合併，並按發佈時間和日期排序。主題可能會更新為 1 秒差異，以根據合併方向維持時間順序。"
+
+msgid "Reply"
+msgstr "回覆"
+
+msgid "Reply #%1$s in %2$s"
+msgstr "在 %2$s 回覆 #%1$s"
+
+msgid "Reply Status:"
+msgstr "回覆狀態："
+
+msgid "Reply To:"
+msgstr "回覆："
+
+msgid "Reply To: %s"
+msgstr "回覆：%s"
+
+msgid "Reply to Message"
+msgstr "回覆留言"
+
+msgid "Report Post"
+msgstr "舉報帖子"
+
+msgid "Reposition Cover Photo"
+msgstr "重新定位封面照片"
+
+msgid "Request Membership"
+msgstr "申請會員資格"
+
+msgid "Request Pending"
+msgstr "請求待處理"
+
+msgid "Request Sent"
+msgstr "請求已發送"
+
+msgid "Request new data export"
+msgstr "請求新數據導出"
+
+msgid "Request personal data export"
+msgstr "請求導出個人數據"
+
+msgid "Required"
+msgstr "必需的"
+
+msgid "Required Update not Available"
+msgstr "所需更新不可用"
+
+msgid "Requires Update"
+msgstr "需要更新"
+
+msgid "Resend"
+msgstr "重發"
+
+msgid "Reset All"
+msgstr "重置全部"
+
+msgid "Reset My Password"
+msgstr "重置我的密碼"
+
+msgid "Reset Section"
+msgstr "復位部分"
+
+msgid "Reset password"
+msgstr "重設密碼"
+
+msgid "Restricted Mode"
+msgstr "限制模式"
+
+msgid "Retake course"
+msgstr "重修課程"
+
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需插件安裝程序"
+
+msgid "Return to shop"
+msgstr "返回商店"
+
+msgid "Return to the Dashboard"
+msgstr "返回儀表板"
+
+msgid "Review"
+msgstr "審查"
+
+msgid "Reviews"
+msgstr "評論"
+
+msgid "Right"
+msgstr "正確的"
+
+msgid "Right alignment"
+msgstr "右對齊"
+
+msgid "Right sidebar"
+msgstr "右側邊欄"
+
+msgid "Rounded All"
+msgstr "全部四捨五入"
+
+msgid "Rounded One Side"
+msgstr "一側呈圓形"
+
+msgid "S"
+msgstr "S"
+
+msgid "SKU :"
+msgstr "貨號："
+
+msgid "Sale!"
+msgstr "銷售！"
+
+msgid "Save"
+msgstr "節省"
+
+msgid "Save Address"
+msgstr "保存地址"
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "Save Settings"
+msgstr "保存設置"
+
+msgid "Save changes"
+msgstr "保存更改"
+
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr "在此瀏覽器中保存我的姓名、電子郵件和網站，以便下次發表評論時使用。"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search Page"
+msgstr "搜索頁"
+
+msgid "Search Results"
+msgstr "搜索結果"
+
+msgid "Search courses..."
+msgstr "搜索課程..."
+
+msgid "Search for:"
+msgstr "搜索："
+
+msgid "Search here"
+msgstr "在這裡搜索"
+
+msgid "Search page Setting"
+msgstr "搜索頁面設置"
+
+msgid "Search replies:"
+msgstr "搜索回复："
+
+msgid "Search results for : "
+msgstr "為。。。。尋找結果 ："
+
+msgid "Search topics:"
+msgstr "搜索主題："
+
+msgid "Search website"
+msgstr "搜索網站"
+
+msgid "Search:"
+msgstr "搜索："
+
+msgid "Secondary"
+msgstr "中學"
+
+msgid "Select All"
+msgstr "全選"
+
+msgid "Select Bulk Action"
+msgstr "選擇批量操作"
+
+msgid "Select Layout Mode"
+msgstr "選擇佈局模式"
+
+msgid "Select Options"
+msgstr "選擇選項"
+
+msgid "Select Page For Forget Password"
+msgstr "選擇忘記密碼頁面"
+
+msgid "Select Page For Login"
+msgstr "選擇登錄頁面"
+
+msgid "Select Page For Register"
+msgstr "選擇註冊頁面"
+
+msgid "Select Plan"
+msgstr "選擇方案"
+
+msgid "Select Posts for hide Featured Images"
+msgstr "選擇帖子以隱藏精選圖像"
+
+msgid "Select a Mode to quickly apply pre-defined all pages"
+msgstr "選擇一種模式以快速應用預定義的所有頁面"
+
+msgid "Select a country / region&hellip;"
+msgstr "選擇國家/地區..."
+
+msgid "Select all"
+msgstr "全選"
+
+msgid "Select an image"
+msgstr "選擇圖像"
+
+msgid "Select an option&hellip;"
+msgstr "選擇一個選項…"
+
+msgid "Select breadcrumb Style"
+msgstr "選擇麵包屑樣式"
+
+msgid "Select danger color."
+msgstr "選擇危險顏色。"
+
+msgid "Select default Title(Headings) color"
+msgstr "選擇默認標題（Headings）顏色"
+
+msgid "Select default body body child box color"
+msgstr "選擇默認的 body 子框顏色"
+
+msgid "Select default body body parent box color"
+msgstr "選擇默認的body主體父框顏色"
+
+msgid "Select default body text color"
+msgstr "選擇默認正文顏色"
+
+msgid "Select friends to invite."
+msgstr "選擇要邀請的朋友。"
+
+msgid "Select info color."
+msgstr "選擇信息顏色。"
+
+msgid "Select option for the footer background"
+msgstr "選擇頁腳背景選項"
+
+msgid "Select orange color."
+msgstr "選擇橙色。"
+
+msgid "Select page"
+msgstr "選擇頁面"
+
+msgid "Select page for restriction"
+msgstr "選擇限制頁面"
+
+msgid "Select pages that can accesible to all."
+msgstr "選擇所有人都可以訪問的頁面。"
+
+msgid ""
+"Select pages which you want to exclude from the restriction so that everyone "
+"can access them."
+msgstr "選擇您想要從限制中排除的頁面，以便每個人都可以訪問它們。"
+
+msgid "Select people to invite from your friends list."
+msgstr "從您的朋友列表中選擇要邀請的人。"
+
+msgid "Select post"
+msgstr "選擇帖子"
+
+msgid "Select success color."
+msgstr "選擇成功顏色。"
+
+msgid "Select the design variation that you want to use for site menu."
+msgstr "選擇您想要用於站點菜單的設計變體。"
+
+msgid "Select the font."
+msgstr "選擇字體。"
+
+msgid "Select the specific page to redirect your users after login."
+msgstr "選擇特定頁面以在登錄後重定向您的用戶。"
+
+msgid ""
+"Select the specific page, that will appear if visitors try to access "
+"restricted pages."
+msgstr "選擇訪問者嘗試訪問受限頁面時將顯示的特定頁面。"
+
+msgid "Select the specific post type to exclude from the restriction."
+msgstr "選擇要從限制中排除的特定帖子類型。"
+
+msgid "Select the style that best fits your needs."
+msgstr "選擇最適合您需求的樣式。"
+
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr "選擇要將此主題合併到的主題。目標主題仍將是主導主題，而該主題將更改為回复。"
+
+msgid "Select the types this group should be a part of."
+msgstr "選擇該團體應屬於的類型。"
+
+msgid "Select the variation for Sidearea background"
+msgstr "選擇側面區域背景的變體"
+
+msgid "Select the variation for header background"
+msgstr "選擇標題背景的變體"
+
+msgid "Select this invitation"
+msgstr "選擇此邀請"
+
+msgid "Select this message"
+msgstr "選擇此消息"
+
+msgid "Select this notification"
+msgstr "選擇此通知"
+
+msgid "Select this option for body background."
+msgstr "選擇此選項作為正文背景。"
+
+msgid "Select warning color."
+msgstr "選擇警告顏色。"
+
+msgid "Self"
+msgstr "自己"
+
+msgid "Send Invitation"
+msgstr "發送邀請"
+
+msgid "Send Invitations"
+msgstr "發送邀請"
+
+msgid "Send Invites"
+msgstr "發送邀請"
+
+msgid "Send Message"
+msgstr "發信息"
+
+msgid "Send Reply"
+msgstr "發送回复"
+
+msgid "Send To (Username or Friend's Name)"
+msgstr "發送至（用戶名或朋友姓名）"
+
+msgid "Send a Reply"
+msgstr "發送回复"
+
+msgid "Send invites"
+msgstr "發送邀請"
+
+msgid "Sent"
+msgstr "發送"
+
+msgid "Sent:"
+msgstr "發送："
+
+msgid "Set Background Color"
+msgstr "設置背景顏色"
+
+msgid "Set Product Per Page"
+msgstr "設置每頁產品"
+
+msgid "Set Speed"
+msgstr "設置速度"
+
+msgid "Set custom colors"
+msgstr "設置自定義顏色"
+
+msgid "Set option for Sliding right side panel."
+msgstr "設置滑動右側面板的選項。"
+
+msgid "Setup 404 page layout"
+msgstr "設置404頁面佈局"
+
+msgid "Setup footer layout"
+msgstr "設置頁腳佈局"
+
+msgid "Setup header layout"
+msgstr "設置標題佈局"
+
+msgid "Setup menu layout"
+msgstr "設置菜單佈局"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Share Posts"
+msgstr "分享帖子"
+
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr "分享一些簡歷信息來填寫您的個人資料。這可能會公開展示。"
+
+msgid "Share on activity"
+msgstr "分享活動"
+
+msgid "Share on activity Notifications"
+msgstr "分享活動通知"
+
+msgid "Ship to a different address?"
+msgstr "運送到不同的地址？"
+
+msgid "Shipping"
+msgstr "船運"
+
+msgid "Shipping address"
+msgstr "收件地址"
+
+msgid "Shop"
+msgstr "店鋪"
+
+msgid "Shop Grid page Setting"
+msgstr "店舖網格頁面設置"
+
+msgid "Shop List page Setting"
+msgstr "店鋪列表頁面設置"
+
+msgid "Shop Page"
+msgstr "商店頁面"
+
+msgid "Shop order"
+msgstr "店鋪訂單"
+
+msgid "Shop page Setting"
+msgstr "店鋪頁面設置"
+
+msgid "Shopping Cart"
+msgstr "購物車"
+
+msgid "Shortcode"
+msgstr "短代碼"
+
+msgid "Show Autoplay ?"
+msgstr "顯示自動播放？"
+
+msgid "Show By:"
+msgstr "呈現方式："
+
+msgid "Show Comments"
+msgstr "顯示評論"
+
+msgid "Show Details"
+msgstr "顯示詳細資料"
+
+msgid "Show Front Customizer Switcher"
+msgstr "顯示前端定制器切換器"
+
+msgid "Show List Limit"
+msgstr "顯示列表限制"
+
+msgid "Show Loop ?"
+msgstr "顯示循環？"
+
+msgid "Show Menu Limit"
+msgstr "顯示菜單限制"
+
+msgid "Show Message Button"
+msgstr "顯示消息按鈕"
+
+msgid "Show Navigation ?"
+msgstr "顯示導航 ?"
+
+msgid "Show Pagination ?"
+msgstr "顯示分頁 ?"
+
+msgid "Show Post"
+msgstr "顯示帖子"
+
+msgid "Show Request Button"
+msgstr "顯示請求按鈕"
+
+msgid "Show Switcher"
+msgstr "節目切換器"
+
+msgid "Show Views"
+msgstr "顯示視圖"
+
+msgid "Show more Sections"
+msgstr "顯示更多部分"
+
+msgid "Show:"
+msgstr "展示："
+
+msgid "Showing Login Icon in desktop view."
+msgstr "在桌面視圖中顯示登錄圖標。"
+
+msgid "Showing Membership Cancel Logo ?"
+msgstr "顯示會員取消標誌？"
+
+msgid "Showing Rss Field in Group page."
+msgstr "在團體頁面中顯示 Rss 字段。"
+
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] "顯示所有 %d 個結果"

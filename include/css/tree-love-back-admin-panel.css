@@ -1,0 +1,24 @@
+
+
+#user-picutre-list td {
+	padding: 10px; /* 设置单元格内边距 */
+	border: 1px solid #ddd; /* 设置单元格边框 */
+}
+
+#user-picutre-list img {
+	width:200px;
+}
+
+#footer-upgrade {
+	display: none;
+}
+.notice {
+	 display: none !important;
+}
+.error.gamipress-revoke-user-earning { 
+	display: block !important; 
+}
+.error { 
+	display: none !important; 
+}
+

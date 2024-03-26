@@ -1,0 +1,403 @@
+/*
+Theme Name: SocialV Child
+Theme URI: https://wordpress.iqonic.design/product/wp/socialv/
+Author: the iQonic team
+Author URI: https://iqonic.design/
+Template:   socialv
+Description: Social Network and Community BuddyPress Theme
+Version: 2.0.3
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: socialv
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+#achievements_filter_form{
+	display: flex;
+	margin:20px 0;
+}
+#achievements_filter_form .select2-selection__rendered{
+	background-color: white;
+}
+
+#achievements_filter_form .select2{
+	width: 250px!important;
+}
+
+#achievements_filter_form input[type=submit]{
+	width: 100px;
+	margin: 2px;
+
+}
+
+#buddypress input[type=submit]{
+	padding:0px;
+}
+
+.socialv-member-info .gamipress-points-thumbnail{
+	width: 20px;
+}
+
+/* nav icon change start*/
+#buddypress div.item-list-tabs ul.socialv-tab-container li a#members:before {
+    content: "\e95a";
+}
+
+#buddypress div.item-list-tabs ul.socialv-tab-container li a#donate-money:before {
+    content: "\e931";
+	color:red;
+}
+
+#buddypress div.item-list-tabs ul.socialv-tab-container li a#donate-list:before {
+    content: "\e940";
+}
+#buddypress div.item-list-tabs ul.socialv-tab-container li a#share-car:before {
+    content: "\e938";
+}
+
+#buddypress div.item-list-tabs ul.socialv-tab-container li a#donate-goods:before {
+    content: "\e91b";
+}
+
+/* nav icon change end*/
+
+
+/* user menu icon change start*/
+.user-profile-menu .point-log:before{
+	content: "\e951";
+}
+
+.user-profile-menu .group:before{
+	content: "\e95b";
+}
+
+
+.user-profile-menu .admin-panel:before{
+	content: "\e94d";
+}
+
+.user-profile-menu li:nth-child(2) .iconly-Profile:before {
+    content: "\e950";
+    /* 其他樣式設定 */
+}
+
+/* user menu icon change end*/
+
+
+
+
+
+.socialv-user-meta.list-inline li{
+	width:100px;
+}
+
+
+
+
+
+.socialv-user-meta.list-inline li{
+	width:100px;
+}
+
+
+/* slider start */
+.slider-item {
+	display: none;  /* Hide all slider items by default */
+  }
+  .slider-item:first-child {
+	display: block;  /* Display only the active slider item */
+  }
+.custom-slider img {
+	width: 100%;
+	height: auto;
+	transition: transform 0.3s;
+}
+
+
+.regular-text {
+	margin-bottom: 5px;
+}
+
+.custom-slider {
+	display: flex;
+	position: relative;
+	overflow: hidden;
+	min-width: 300px;
+	max-width: 300px;
+
+	width: 100%;
+}
+
+.slider-container {
+	min-height: 300px;
+	width: 100%;
+
+	display: flex;
+    align-items: center; /* 垂直居中 */
+    justify-content: center; /* 水平居中 */
+}
+
+.slider-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	/* display: flex; */
+	/* width: calc(300% + 40px);  */
+} 
+
+.slider-item {
+	/* flex: 0 0 calc(60% - 20px); */
+	/* margin: 0 3px; */
+	text-align: center;
+}
+
+.slider-item img {
+	width: 100%;
+	height: auto;
+}
+
+.prev-button,
+.next-button {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	background-color: #333;
+	color: #fff;
+	border: none;
+	padding: 10px 15px;
+	cursor: pointer;
+}
+
+.prev-button {
+	left: 0;
+}
+.next-button {
+	right: 0;
+}
+
+.custom-slider ul.slider-list {
+	list-style-type: none !important;
+	padding: 0;
+}
+
+.custom-slider .slider-item img {
+	display: block;
+}
+
+.fade {
+	animation-name: fade;
+	animation-duration: 1s;
+	/* animation-timing-function: ease-in-out; */
+}
+
+@keyframes fade {
+	from {
+		opacity: 0.8;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+
+
+/* slider end */
+.gamipress-earnings-col-pictures img{
+	max-width:300px;
+	max-height: 300px;
+	align-items: center;
+}
+#gamipress-earnings-table{
+	text-align: center;
+}
+
+#gamipress-earnings-pagination{
+	display: flex;
+	gap:10px;
+}
+
+#donate-list-form{
+	text-align: center;
+  }
+#choose-donate-list {
+	text-align: center;
+    margin: 10px 0;
+   padding:0;
+	height: auto;
+	line-height:2;
+		width: 300px;
+  }
+  
+  
+	  #upload-donate-list {
+  width: 300px;
+  padding: 0px !important;
+  }
+
+.btn-login.socialv-button{
+	display: flex;
+	flex-direction: row-reverse;
+   }
+
+.btn-login.socialv-button span{
+	padding-left: 5px;
+	display: block!important;
+   }
+
+
+
+
+.dropdown-item.fav, .dropdown-item.has-socialv-pin{
+		display: none;
+}
+
+.row.card-space .col-md-4{
+	display: none;
+
+}
+
+#user_changepass,.text-center.register-link{
+		display: none;
+
+}
+
+.activity #message{
+			display: none;
+
+}
+
+
+.socialv-activity_comment{
+			display: none;
+
+}
+
+
+
+#item-nav,#subnav{
+  display: none;
+}
+
+.card-main.socialv-search-main{
+	display: none;
+
+}
+
+#phone_auth_form{
+text-align: center;
+color: #000;
+}
+
+#phone_auth_form2{
+	
+	text-align: center;
+	color: #000;
+
+	}
+
+
+#phone_auth_form input[name="phone_number"] {
+	width:500px!important;
+	border-color: black;	
+}
+
+
+#get_verification_code{
+	width: 300px!important;
+	border-color: black;	
+	margin: 20px;
+
+
+}
+#phone_auth_form2 input[name="submit_verification_code"] {
+	width:300px!important;
+	margin: 20px;
+	border-color: black;	
+}
+
+#phone_auth_form2 input[name="verification_code"] {
+	width:500px!important;
+	border-color: black;	
+
+}
+.dropdown-profile .user-link::after{
+  content: "會員中心";
+}
+
+@media screen and (max-width: 480px) {
+
+	#phone_auth_form{
+		text-align: left;
+		color: #000;
+		padding:10px
+		}
+
+		#phone_auth_form2{
+			text-align: left;
+			color: #000;
+			padding:10px
+			}
+
+	#phone_auth_form input[name="phone_number"] {
+		width:70%!important;
+		border-color: black;	
+	
+	}
+	#phone_auth_form2 input[name="verification_code"] {
+		width:70%!important;
+		border-color: black;	
+	
+	}
+	
+	#get_verification_code{
+		width:25%!important;
+		margin: 0px;
+
+		margin-left: 5px;
+	}
+	#phone_auth_form2 input[name="submit_verification_code"] {
+		width:25%!important;
+		margin: 0px;
+
+		margin-left: 5px;
+		border-color: black;	
+	}
+	
+	.list-inline.list-main-parent{
+		justify-content:end!important;
+	}
+	.gamipress-earnings-table tbody tr{
+	    border-color: rgb(155 138 138);
+    border-width: 1px;
+}
+
+#gamipress-earnings-table tr {
+	padding-bottom: 1em;
+	border-bottom: 1px solid rgb(155 138 138);
+	margin-bottom: 1em
+}
+
+.point-list-mobile-label{
+	display: block!important;
+}
+
+
+.gamipress-earnings-col-carbon_token_granted_total,.gamipress-earnings-col-group{
+width: 48%!important;
+float: left!important;
+}
+
+
+#gamipress-earnings-table{
+	text-align: left;
+}
+.gamipress-earnings-col-pictures img{
+	width:100%;
+	padding: 15px 15px 0px 15px;
+}
+
+  } 
